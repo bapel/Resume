@@ -36,11 +36,15 @@ _Solo-dev and contract work_
 ## Nov 2016 - Oct 2018: Zynga (Bangalore)
 _Senior Software Engineer_
 
-Lead programmer on features and performance optimizations for a 3d mobile RTS called Empires and Allies.
-- Implemented AI, Effects, and Logic for many units
+### Empires and Allies (Unity/C#)
+Empires and allies was a 3d Action-RTS game for Android and iOS. I was a lead programmer on features and performance optimizations.
+
+- Worked on multiple features that included designing and implementing AI Logic for many units
+- Worked on programming Powerup Effects for a few units
 - Revamped the UI sub-system to support the iPhone-x and other notched screens
-- Proposed and worked with team-mates on multiple performance optimizations to reduce memory usage and improve frame-rates across devices
-- Proposed and implemented a tool for artists to streamline recording in-game footage for trailers
+- Responsible for multiple performance optimizations to reduce memory usage and improve frame-rates on low-medium end devices
+- Created a in-game debug utility to help QA flag asset size and compression settings issues
+- Created a tool for artists to streamline recording in-game footage for trailers
 
 ## Sep 2012 - Nov 2016: Electronic Arts (Hyderabad)
 _Software Engineer II_
