@@ -59,9 +59,9 @@ Worked as an individual contributor on multiple projects. Work included implemen
 
 - **Jan 2012 - Sep 2012, Contract Work (Cocos2d/Objective-C/C++):** Infinite running side-scroller with randomly generated levels
 - **Aug 2010 - Jan 2012, RZ2 Games (PHP/Android/Java):** Full-stack engineer on a sports betting site
-- **Feb 2010 - Aug 2012, Lecturer at ICAT:** Taught math for games for under-grads and as a refresher for post-grads. And a graphics-programming in Directx 9.0c class for under-grads
+- **Feb 2010 - Aug 2012, Lecturer at ICAT:** Taught math for games for under-grads and as a refresher for post-grads. And a graphics-programming in Direct3D 9.0c class for under-grads
 
 # Education (2006-2010)
 _BA Hons. in Digital Media, Game Development from ICAT (Chennai)_
 
-Awarded gold medal for project and dissertation on [Crowd Simulation](https://www.youtube.com/watch?v=vxSII4mlig8). The project was written from scratch in C++ and used Direct3d 9.0c (SM3.0) for rendering. The engine featured Bump-Maps and Soft-shadows. The AI used steering behaviors for movement, a hash-grid for separation, and a flow-map for pathfinding.
+Awarded gold medal for project and dissertation on [Crowd Simulation](https://www.youtube.com/watch?v=vxSII4mlig8). The project was written from scratch in C++ and used Direct3D 9.0c (SM3.0) for rendering. The engine featured Bump-Maps and Soft-shadows. The AI used steering behaviors for movement, a hash-grid for separation, and a flow-map for pathfinding.
