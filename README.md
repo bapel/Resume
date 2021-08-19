@@ -14,7 +14,7 @@ Working as the Tech Lead and first engineer on the project. The title is still u
 ## Oct 2018 - Feb 2021: Freelancer
 _Solo-dev and contract work_
 
-## Contracts/Collboration
+## Contracts/Collaboration
 
 - **Freelance project for Vedantu (Unity/C#, PlayFab):** Proof-of-concept for an interactive classroom with video chat. Where the Teacher could draw on a whiteboard and could launch different kinds of "plugins". Plugins included things such as an interactive model-viewer to display anatomy, a web browser, or a car-racing game.
 - **Collaborated with QYJO (Unity/C#):** Developed and programmed a method to generate [random player paths](https://medium.com/@1basudevpatel/random-paths-in-gamedev-beatdown-a913a1d8c5e6) for [Gamedev Beatdown](https://store.steampowered.com/app/1100300/Gamedev_Beatdown/).
