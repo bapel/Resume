@@ -3,7 +3,7 @@
 _Phone:_ +91 88972 60207
 _Email:_ [1basudevpatel@gmail.com](mailto:1basudevpatel@gmail.com)
 
-I am a passionate game developer who loves games and the technical challenges involved in building them. I have more around a decade of experience working in the games-industry, on games of many different genres.
+I am a passionate game developer who loves games and the technical challenges involved in building them. I have around a decade of experience working in the games-industry, on games of many different genres.
 
 ## Feb 2021 - Present: nCore Games
 _Principal Software Engineer_
