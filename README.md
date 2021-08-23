@@ -51,7 +51,7 @@ _Software Engineer II_
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some r&d style work.
 
 - **Tetris Blitz (C++):** Very short tenure working on improvements to load times, by separating HTTP requests that are not critical to game launch to a separate parallel-queue
-- **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was later ported to Unity. Halved load times and improved frame rate on the Unity SKU. Load times were halved by moving all XML assets to Google’s FlatBuffer. The transition was accomplished bug-free using a tool I wrote that parsed all XML assets and figured out their schema and generated code for XML-to-FlatBuffer-to-runtime and other variations automagically.
+- **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was later ported to Unity. Halved load times, improved first-time load, and improved frame rate on the Unity SKU. Load times were halved by moving all XML assets to Google’s FlatBuffer. The transition was accomplished bug-free using a tool I wrote that parsed all XML assets and figured out their schema and generated code for XML-to-FlatBuffer-to-runtime and other variations automagically.
 - **Other titles:** Gameplay Programmer on Monopoly Bingo (Unity/C#), Theme Park (Java/Objective-C/C++), Sims Social (Adobe AIR/Flash)
 
 # Other Experience (2010-2012)
