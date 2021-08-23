@@ -27,7 +27,7 @@ _Solo-dev and contract work_
 - Implemented a sprite renderer in d3d11 and implemented Tetris as a form of dogfooding
 
 ### City-Building game in Unity (On-Hold)
-- Experiments in procedural generation of large land-masses in Unity inspired by [redblob's Polygon map generator](https://www.redblobgames.com/maps/mapgen2/)
+- Experiments in procedural generation of large land-masses in Unity inspired by [redblob's Polygon map generator](https://www.redblobgames.com/maps/mapgen4/)
 - Developed a parallel method for generating millions of [poisson points](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
 - Implemented algorithms for producing terrain features from a Delaunay triangulation of the generated points. Ported Mapbox's [delaunator to C#](https://gist.github.com/bapel/c8888e6e7d365d126f454598331b9f19)
 - Implemented a performant debug-renderer to visualize millions of points and lines within the Unity editor using a Mesh and a Geometry shader to draw thick points and lines
