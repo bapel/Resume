@@ -5,14 +5,20 @@ _Email:_ [1basudevpatel@gmail.com](mailto:1basudevpatel@gmail.com)
 
 I am a passionate game developer who loves games and the technical challenges involved in building them. I have around a decade of experience working in the games-industry, on games of many different genres.
 
-## Feb 2021 - Present: nCore Games
-_Principal Software Engineer_
+## LILA Games
+_Lead Unity 3D Developer (Nov 2021 - Present)_
+
+### Project BLACK (Unity/C#, Multiplayer) ###
+Building core combat features and writing netcode for a third-person looter-survivor.
+
+## nCore Games
+_Principal Software Engineer (Feb 2021 - Nov 2021)_
 
 ### Unannounced Multiplayer Sports Title (Unity/C#, Multiplayer)
 Working as the Tech Lead and first engineer on the project. The title is still under development and is a 1-vs-1 sports title. This is a server-authoritative game built in Unity. Uses the Mirror library for networking and snapshot interpolation to keep clients in sync with the server.
 
-## Oct 2018 - Feb 2021: Freelancer
-_Solo-dev and contract work_
+## Freelancer
+_Solo-dev and contract work (Oct 2018 - Feb 2021)_
 
 ## Contracts/Collaboration
 
@@ -28,13 +34,13 @@ _Solo-dev and contract work_
 
 ### City-Building game in Unity (On-Hold)
 - Experiments in procedural generation of large land-masses in Unity inspired by [redblob's Polygon map generator](https://www.redblobgames.com/maps/mapgen4/)
-- Developed a parallel method for generating millions of [poisson points](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
-- Implemented algorithms for producing terrain features from a Delaunay triangulation of the generated points. Ported Mapbox's [delaunator to C#](https://gist.github.com/bapel/c8888e6e7d365d126f454598331b9f19)
-- Implemented a performant debug-renderer to visualize millions of points and lines within the Unity editor using a Mesh and a Geometry shader to draw thick points and lines
+- Developed a parallel algorithm for generating [blue noise](https://medium.com/@1basudevpatel/faster-poisson-sampling-a76cb9a99825)
+- Implemented algorithms for producing terrain features using a Delaunay triangulation of the blue noise. Ported Mapbox's [delaunator to C#](https://gist.github.com/bapel/c8888e6e7d365d126f454598331b9f19)
+- Implemented a performant debug-renderer to visualize millions of points and lines within the Unity editor using Geometry Shaders to draw thick points and lines
 - Experiments in using Unity-DOTS for generation, simulation, and rendering of the game-world
 
-## Nov 2016 - Oct 2018: Zynga (Bangalore)
-_Senior Software Engineer_
+## Zynga (Bangalore)
+_Senior Software Engineer (Nov 2016 - Oct 2018)_
 
 ### Empires and Allies (Unity/C#)
 Empires and allies was a 3d Action-RTS game for Android and iOS. I was a lead programmer on features and performance optimizations.
@@ -45,8 +51,8 @@ Empires and allies was a 3d Action-RTS game for Android and iOS. I was a lead pr
 - Created an in-game debug utility to help QA flag problems with texture size and compression settings
 - Created a tool for artists to streamline recording in-game footage for trailers
 
-## Sep 2012 - Nov 2016: Electronic Arts (Hyderabad)
-_Software Engineer II_
+## Electronic Arts (Hyderabad)
+_Software Engineer II (Sep 2012 - Nov 2016)_
 
 Worked as an individual contributor on multiple projects. Work included implementing gameplay features and some r&d style work.
 
@@ -54,13 +60,13 @@ Worked as an individual contributor on multiple projects. Work included implemen
 - **Monopoly Slots (Unity/C#):** Earlier an Adobe AIR client that was later ported to Unity. Halved load times, improved first-time load, and improved frame rate on the Unity SKU. Load times were halved by moving all XML assets to Google’s FlatBuffer. The transition was accomplished bug-free using a tool I wrote that parsed all XML assets and figured out their schema and generated code for XML-to-FlatBuffer-to-runtime and other variations automagically.
 - **Other titles:** Gameplay Programmer on Monopoly Bingo (Unity/C#), Theme Park (Java/Objective-C/C++), Sims Social (Adobe AIR/Flash)
 
-# Other Experience (2010-2012)
+# Other Experience
 
 - **Jan 2012 - Sep 2012, Contract Work (Cocos2d/Objective-C/C++):** Infinite running side-scroller with randomly generated levels
 - **Aug 2010 - Jan 2012, RZ2 Games (PHP/Android/Java):** Full-stack engineer on a sports betting site
 - **Feb 2010 - Aug 2012, Lecturer at ICAT:** Taught math for games for under-grads and as a refresher for post-grads. And a graphics-programming in Direct3D 9.0c class for under-grads
 
-# Education (2006-2010)
-_BA Hons. in Digital Media, Game Development from ICAT (Chennai)_
+# Education
+_BA Hons. in Digital Media, Game Development from ICAT (Chennai) (2006-2010)_
 
 Awarded gold medal for project and dissertation on [Crowd Simulation](https://www.youtube.com/watch?v=vxSII4mlig8). The project was written from scratch in C++ and used Direct3D 9.0c (SM3.0) for rendering. The engine featured Bump-Maps and Soft-shadows. The AI used steering behaviors for movement, a hash-grid for separation, and a flow-map for pathfinding.
