@@ -9,7 +9,7 @@ I am a passionate game developer who loves games and the technical challenges in
 _Lead Unity 3D Developer (Nov 2021 - Present)_
 
 ### Project BLACK (Unity/C#, Multiplayer) ###
-Building core combat features and writing netcode for a third-person looter-survivor.
+Programming core combat features for a multiplayer extraction-shooter.
 
 ## nCore Games
 _Principal Software Engineer (Feb 2021 - Nov 2021)_
